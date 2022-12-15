@@ -45,10 +45,10 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><!-- git --><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
   
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadhesham1&show_icons=true&locale=en&layout=compact" alt="ziadhesham1" /></p>
-<br>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadhesham1&show_icons=true&locale=en&layout=compact" alt="ziadhesham1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadhesham1&show_icons=true&locale=en" alt="ziadhesham1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadhesham1&" alt="ziadhesham1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadhesham1&" alt="ziadhesham1" /></p>
+
